@@ -1,0 +1,6 @@
+{
+  "name": "Convite Digital — Larissa & André",
+  "description": "Convite de casamento digital de Larissa e André — 28 de Setembro de 2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
